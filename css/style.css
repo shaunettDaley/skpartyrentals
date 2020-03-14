@@ -6,6 +6,15 @@
  * Made By MaterializeCSS.com
  */
 
+header{
+  background-image:url("shut1.png");
+  background-repeat:no-repeat;
+  background-size:cover;
+  min-height:350px;
+  background-position:center center;
+  
+}
+
 nav ul a,
 nav .brand-logo {
   color: #444;
